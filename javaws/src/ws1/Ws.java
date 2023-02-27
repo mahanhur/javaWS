@@ -20,6 +20,9 @@ public class Ws {
 				// 배열 정보를 출력한다.
 				// 배열의 합과 평균을 출력 한다.
 				
+				System.out.println("Input Number[5~9]");
+				String Numa1 = "";
+				
 			} else if(cmd.equals("a2")) {
 				// 5~9까지의 숫자를 입력 받는다.
 				// 입력 받은 숫자만큼 배열을 생성하고
